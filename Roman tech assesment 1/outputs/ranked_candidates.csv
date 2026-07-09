@@ -1,0 +1,12 @@
+rank,name,score,match_strength,skills,education,reasoning
+1,JOHN ANDERSON,56.53,Weak,"Python, JavaScript, TypeScript, Java, Go","Bachelor of Science in Computer Science State University, 2015",Candidate: JOHN ANDERSON
+2,ROBERT WILSON,48.57,Weak,"Python, TypeScript, Java, Go, PostgreSQL","Master of Science in Software Engineering Carnegie Mellon University, 2014 Bachelor of Science in Co",Candidate: ROBERT WILSON
+3,MICHAEL CHEN,46.36,Weak,"Python, Java, Go, C++, Django","Master's in Computer Science University of Washington, 2018 BS Computer Science, 2016",Candidate: MICHAEL CHEN
+4,ALEX THOMPSON,45.34,Weak,"Python, JavaScript, TypeScript, Java, Go",No education details found,Candidate: ALEX THOMPSON
+5,DAVID KUMAR,44.58,Weak,"Python, Ruby, PostgreSQL, MySQL, SQL","Bachelor of Science in Information Systems State University, 2017",Candidate: DAVID KUMAR
+6,SARAH MARTINEZ,44.37,Weak,"Python, JavaScript, TypeScript, Java, Go","Bachelor of Science in Information Technology Tech University, 2017",Candidate: SARAH MARTINEZ
+7,LISA ANDERSON,37.65,Weak,"Python, JavaScript, TypeScript, Java, Go","Bachelor of Science in Computer Science Tech University, 2021 PERSONAL PROJECTS:",Candidate: LISA ANDERSON
+8,JESSICA PATEL,33.30,Weak,"Python, Java, Go, PostgreSQL, MongoDB","Master of Science in Data Science University of Colorado, 2018 Bachelor of Science in Statistics, 20",Candidate: JESSICA PATEL
+9,EMMA WILSON,27.80,Weak,"JavaScript, Java, React, GraphQL, REST","Bachelor of Science in Software Engineering Tech University, 2019",Candidate: EMMA WILSON
+10,RACHEL GREEN,27.23,Weak,"Python, JavaScript, Java, Go, SQL","Bachelor of Science in Computer Science Tech University, 2019",Candidate: RACHEL GREEN
+11,MARK JOHNSON,21.22,Weak,"Go, SQL, GitHub, API, Git","Bachelor of Science in Business Administration University of Southern California, 2018",Candidate: MARK JOHNSON

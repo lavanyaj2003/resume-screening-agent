@@ -1,0 +1,50 @@
+LISA ANDERSON
+San Diego, CA | (555) 012-3456 | lisa.anderson@email.com | LinkedIn: linkedin.com/in/lisaanderson
+
+PROFESSIONAL SUMMARY:
+Junior Full Stack Developer with 2 years of professional experience building web applications.
+Passionate about learning new technologies and best practices. Proficient in JavaScript, React,
+and Node.js. Looking for opportunities to grow and contribute to larger projects.
+
+TECHNICAL SKILLS:
+Languages: JavaScript, Python, HTML, CSS
+Frontend: React, Bootstrap, CSS-in-JS
+Backend: Node.js, Express, MongoDB
+Databases: MongoDB, SQLite
+Tools: Git, VS Code, Postman
+Learning: TypeScript, PostgreSQL, Docker
+
+PROFESSIONAL EXPERIENCE:
+Junior Developer | WebDevStudio (2022 - Present)
+- Developed React components for customer-facing web application
+- Built REST APIs using Node.js and Express
+- Worked with MongoDB for data persistence
+- Participated in code reviews and pair programming
+- Fixed bugs and implemented small feature requests
+
+Web Developer | StartupBoost (2021 - 2022)
+- Created responsive websites using React and Bootstrap
+- Assisted in backend API development
+- Learned agile development practices
+- Supported senior developers on various projects
+
+EDUCATION:
+Bachelor of Science in Computer Science
+Tech University, 2021
+
+PERSONAL PROJECTS:
+- Todo Application: Full-stack application with React frontend and Node.js backend
+- Weather App: React application consuming public APIs
+- Personal Portfolio: Responsive website showcasing projects
+
+SKILLS & INTERESTS:
+- Comfortable with React and modern JavaScript
+- Understanding of REST API design
+- Version control with Git
+- Eager to learn backend technologies
+- Strong work ethic and teamwork
+- Interested in DevOps and cloud technologies
+
+ACHIEVEMENTS:
+- Completed full-stack developer bootcamp
+- Built and deployed personal projects to Heroku

@@ -1,0 +1,7 @@
+# Core dependencies
+# No external dependencies required for basic functionality (uses only Python stdlib)
+
+# Optional dependencies for enhanced functionality
+PyPDF2>=3.0.0          # For parsing PDF resumes
+python-docx>=0.8.11    # For parsing DOCX resumes
+openai>=0.27.0         # For optional OpenAI API integration (requires API key)

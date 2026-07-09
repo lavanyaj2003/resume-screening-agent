@@ -1,0 +1,48 @@
+JOHN ANDERSON
+San Francisco, CA | (555) 123-4567 | john.anderson@email.com | LinkedIn: linkedin.com/in/johnderson
+
+PROFESSIONAL SUMMARY:
+Senior Full Stack Engineer with 7+ years of experience building scalable cloud-based applications.
+Expert in Python, JavaScript, and modern cloud architectures. Proven track record of leading
+technical initiatives and mentoring engineers. Strong background in distributed systems and DevOps.
+
+TECHNICAL SKILLS:
+Languages: Python, JavaScript, TypeScript, Java, SQL
+Backend: Django, FastAPI, Node.js, Express.js
+Frontend: React, Vue.js, HTML5, CSS3
+Databases: PostgreSQL, MongoDB, Redis
+Cloud: AWS (EC2, S3, Lambda, RDS), Azure
+DevOps: Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions
+Tools: Git, Linux, Terraform, DataDog
+
+PROFESSIONAL EXPERIENCE:
+Senior Software Engineer | TechFlow Inc. (2019 - Present)
+- Led development of microservices architecture handling 10M+ daily requests using Python and FastAPI
+- Designed and implemented Kubernetes-based deployment infrastructure reducing deployment time by 60%
+- Mentored team of 5 junior engineers and conducted technical interviews
+- Implemented CI/CD pipelines using GitHub Actions improving code quality and deployment frequency
+- Optimized database queries reducing query latency by 45% using Redis caching
+
+Full Stack Engineer | CloudBase Corp. (2016 - 2019)
+- Developed React-based web applications serving 500K+ active users
+- Built RESTful APIs using Python Django handling high-traffic scenarios
+- Managed AWS infrastructure including EC2, RDS, and S3 services
+- Implemented automated testing framework increasing code coverage to 85%
+
+Junior Developer | StartupXYZ (2015 - 2016)
+- Developed web applications using Java and Spring Framework
+- Participated in agile development cycles and code reviews
+- Learned and applied best practices in software engineering
+
+EDUCATION:
+Bachelor of Science in Computer Science
+State University, 2015
+
+CERTIFICATIONS:
+AWS Certified Solutions Architect Associate
+Google Cloud Associate Cloud Engineer
+
+NOTABLE ACHIEVEMENTS:
+- Open source contributor: Contributed to popular Python libraries with 200+ stars
+- Technical speaker: Presented on microservices architecture at 3 tech conferences
+- Performance optimization: Reduced API response time from 500ms to 80ms through profiling

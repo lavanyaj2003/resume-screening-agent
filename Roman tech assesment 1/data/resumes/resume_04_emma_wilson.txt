@@ -1,0 +1,46 @@
+EMMA WILSON
+New York, NY | (555) 456-7890 | emma.wilson@email.com | LinkedIn: linkedin.com/in/emmawilson
+
+PROFESSIONAL SUMMARY:
+Mobile Application Developer with 4 years of experience building iOS and Android applications.
+Proficient in Swift, Kotlin, and React Native. Experience working on consumer-facing applications
+with millions of downloads.
+
+TECHNICAL SKILLS:
+Languages: Swift, Kotlin, Java, JavaScript
+Mobile Frameworks: React Native, Flutter, SwiftUI
+Backend Support: REST APIs, Firebase, GraphQL
+Tools: Xcode, Android Studio, Git, Jira
+
+PROFESSIONAL EXPERIENCE:
+Mobile Developer | AppStudio (2021 - Present)
+- Developed React Native applications for both iOS and Android platforms
+- Integrated GraphQL APIs for data fetching
+- Implemented Redux state management
+- Worked with Firebase for real-time data synchronization
+
+iOS Developer | MobileFirst Corp. (2019 - 2021)
+- Built native iOS applications using Swift and SwiftUI
+- Implemented local database solutions using CoreData
+- Optimized app performance and memory usage
+- Collaborated with UI/UX designers
+
+Junior Developer | App Factory (2019)
+- Developed Android apps using Kotlin
+- Learned mobile development best practices
+
+EDUCATION:
+Bachelor of Science in Software Engineering
+Tech University, 2019
+
+SKILLS:
+- iOS and Android development expertise
+- React Native for cross-platform development
+- Mobile UI/UX implementation
+- API integration
+- App Store publication experience
+- Performance optimization for mobile devices
+
+NOTABLE APPS:
+- FitTracker: 50K+ downloads, 4.5 rating on app store
+- SocialConnect: Developed core messaging features

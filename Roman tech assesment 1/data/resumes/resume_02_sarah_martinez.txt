@@ -1,0 +1,45 @@
+SARAH MARTINEZ
+Boston, MA | (555) 234-5678 | sarah.martinez@email.com | GitHub: github.com/smartinez
+
+PROFESSIONAL SUMMARY:
+Full Stack Developer with 6 years of experience in web and mobile application development.
+Skilled in React, Python, and cloud deployment. Strong background in building customer-facing
+applications and working in agile teams.
+
+TECHNICAL SKILLS:
+Languages: JavaScript, TypeScript, Python, Go, SQL
+Frontend: React, Next.js, CSS-in-JS
+Backend: Node.js, Express, Flask, PostgreSQL
+Cloud: AWS, Google Cloud Platform, Docker
+Tools: Git, Webpack, Jest, REST APIs
+
+PROFESSIONAL EXPERIENCE:
+Senior Developer | WebCorp (2020 - Present)
+- Developed React-based dashboard used by 100K+ customers
+- Built backend APIs using Node.js and Express
+- Deployed applications on AWS using EC2 and RDS
+- Led frontend architecture discussions
+
+Full Stack Engineer | DataSystems Ltd. (2018 - 2020)
+- Created Python web scraping services for data collection
+- Developed REST APIs and database schemas
+- Collaborated with product team on feature prioritization
+
+Junior Web Developer | StartWeb Inc. (2017 - 2018)
+- Built responsive websites using HTML, CSS, and JavaScript
+- Learned web development best practices
+
+EDUCATION:
+Bachelor of Science in Information Technology
+Tech University, 2017
+
+SKILLS HIGHLIGHTS:
+- Expert in React and modern JavaScript
+- Comfortable with AWS deployment and management
+- Experience with SQL optimization
+- Good understanding of system design principles
+- Agile methodology experience
+
+PROJECTS:
+- Customer Analytics Dashboard: Built React frontend and Python backend for real-time analytics
+- E-commerce Platform: Developed full-stack solution using MEAN stack

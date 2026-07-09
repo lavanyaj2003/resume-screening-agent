@@ -1,0 +1,48 @@
+MICHAEL CHEN
+Seattle, WA | (555) 345-6789 | m.chen@email.com | Portfolio: michaelchen.dev
+
+PROFESSIONAL SUMMARY:
+Experienced Backend Engineer with 5 years of focus on server-side development and infrastructure.
+Specialized in building high-performance systems using Python and Go. Strong expertise in
+database optimization and cloud infrastructure.
+
+TECHNICAL SKILLS:
+Languages: Python, Go, Java, C++
+Backend Frameworks: Django, FastAPI, gRPC
+Databases: PostgreSQL, MongoDB, Cassandra, Redis
+Cloud Infrastructure: AWS, Kubernetes, Docker
+DevOps: Terraform, Ansible, CI/CD, Linux Administration
+Data Processing: Apache Spark, Kafka
+
+PROFESSIONAL EXPERIENCE:
+Senior Backend Engineer | FinTech Systems (2021 - Present)
+- Designed and implemented microservices in Go handling 50K requests/second
+- Managed Kubernetes cluster deployment and scaling
+- Optimized database performance using indexing and query optimization
+- Built event streaming pipeline using Kafka
+
+Backend Engineer | DataPlatform Corp. (2019 - 2021)
+- Developed Python-based data processing pipelines
+- Implemented distributed caching strategies with Redis
+- Maintained PostgreSQL databases with 5TB+ data
+- Created monitoring and alerting systems
+
+Software Developer | TechStartup (2018 - 2019)
+- Built REST APIs using Python Flask
+- Managed AWS infrastructure as code using Terraform
+
+EDUCATION:
+Master's in Computer Science
+University of Washington, 2018
+BS Computer Science, 2016
+
+CERTIFICATIONS:
+Kubernetes Application Developer (CKAD)
+AWS Solutions Architect
+
+EXPERTISE AREAS:
+- Microservices Architecture
+- Database Optimization
+- Kubernetes and container orchestration
+- High-availability system design
+- Performance tuning and profiling

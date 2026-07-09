@@ -1,0 +1,49 @@
+JESSICA PATEL
+Denver, CO | (555) 678-9012 | jessica.patel@email.com | LinkedIn: linkedin.com/in/jpatel
+
+PROFESSIONAL SUMMARY:
+Data Scientist with 5 years of experience in machine learning and data analysis. Experienced in
+building predictive models and extracting insights from large datasets. Proficient in Python,
+TensorFlow, and SQL.
+
+TECHNICAL SKILLS:
+Languages: Python, R, SQL, Java
+Machine Learning: TensorFlow, PyTorch, Scikit-learn, XGBoost
+Data Processing: Pandas, NumPy, Spark
+Visualization: Matplotlib, Seaborn, Tableau, PowerBI
+Cloud: AWS SageMaker, Google Cloud AI Platform
+Databases: PostgreSQL, MongoDB
+
+PROFESSIONAL EXPERIENCE:
+Senior Data Scientist | AI Analytics Corp. (2020 - Present)
+- Developed machine learning models for customer churn prediction achieving 92% accuracy
+- Built data pipelines using Python and Spark processing 1TB+ daily
+- Implemented recommendation systems using collaborative filtering
+- Deployed models to production using AWS SageMaker
+
+Data Scientist | DataInsights Ltd. (2018 - 2020)
+- Created predictive models for business forecasting
+- Performed statistical analysis and A/B testing
+- Built dashboards using Tableau for executive reporting
+- Collaborated with product teams on data-driven decisions
+
+Junior Analyst | Analytics Firm (2018)
+- Analyzed business metrics and generated reports
+- Supported senior analysts with data preparation
+
+EDUCATION:
+Master of Science in Data Science
+University of Colorado, 2018
+Bachelor of Science in Statistics, 2016
+
+CERTIFICATIONS:
+AWS Machine Learning Specialty
+Google Cloud Data Engineer
+
+SKILLS HIGHLIGHTS:
+- Advanced statistical analysis
+- Machine learning model development
+- Data visualization and storytelling
+- SQL optimization for data extraction
+- TensorFlow and PyTorch expertise
+- Business acumen and presentation skills

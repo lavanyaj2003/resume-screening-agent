@@ -1,0 +1,47 @@
+MARK JOHNSON
+Los Angeles, CA | (555) 901-2345 | mark.johnson@email.com | GitHub: github.com/mjohnson
+
+PROFESSIONAL SUMMARY:
+Product Manager with 6 years of experience driving product strategy and execution.
+Experienced in cross-functional collaboration, market analysis, and delivering user-focused solutions.
+Proficient in analytics tools and technical understanding of software systems.
+
+TECHNICAL SKILLS:
+Technical Knowledge: API design, database concepts, cloud infrastructure basics
+Analytics: Google Analytics, Amplitude, Mixpanel
+Tools: JIRA, Figma (viewing), SQL (basic), Excel
+Business: Product strategy, roadmapping, user research
+
+PROFESSIONAL EXPERIENCE:
+Senior Product Manager | Digital Products Co. (2020 - Present)
+- Led product strategy for SaaS platform with 50K+ users
+- Collaborated with engineering teams on technical implementation
+- Analyzed market trends and competitive landscape
+- Managed product roadmap and prioritization
+- Conducted user research and interviews
+
+Product Manager | TechGrowth Inc. (2018 - 2020)
+- Drove product development for mobile application
+- Worked closely with engineering and design teams
+- Managed product analytics and reporting
+- Led feature rollout and A/B testing
+
+Junior Product Manager | StartupFlow (2018)
+- Supported product management activities
+- Conducted user interviews and market research
+- Assisted in roadmap development
+
+EDUCATION:
+Bachelor of Science in Business Administration
+University of Southern California, 2018
+
+CERTIFICATIONS:
+Product School - Certified Product Manager
+
+EXPERTISE:
+- Product strategy and roadmapping
+- Cross-functional team leadership
+- User research and feedback incorporation
+- Agile methodologies
+- Product metrics and KPIs
+- Market analysis

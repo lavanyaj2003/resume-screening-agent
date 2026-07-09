@@ -1,0 +1,57 @@
+ROBERT WILSON
+Miami, FL | (555) 123-4567 | robert.wilson@email.com | Portfolio: robertwilson-dev.com
+
+PROFESSIONAL SUMMARY:
+Software Architect with 9 years of experience designing and building enterprise-scale systems.
+Expert in system design, cloud architecture, and technical leadership. Strong background in
+mentoring teams and establishing engineering best practices.
+
+TECHNICAL SKILLS:
+Languages: Python, Java, Go, TypeScript, SQL
+Architecture: Microservices, event-driven architecture, serverless
+Cloud: AWS, GCP, multi-cloud strategies
+Databases: PostgreSQL, DynamoDB, Elasticsearch, Redis, Cassandra
+DevOps: Kubernetes, Docker, Terraform, Helm
+APIs: REST, gRPC, GraphQL
+Messaging: Kafka, RabbitMQ, SQS
+
+PROFESSIONAL EXPERIENCE:
+Solutions Architect | Enterprise Systems (2021 - Present)
+- Designed cloud architecture for clients in healthcare, fintech, and e-commerce
+- Architected microservices platform for scale supporting 100K+ users
+- Led engineering team of 8 technical staff
+- Mentored architects and senior engineers
+- Established CI/CD practices and deployment automation
+
+Principal Engineer | CloudScale Inc. (2018 - 2021)
+- Designed and implemented event-driven architecture using Kafka
+- Built microservices framework used across 50+ services
+- Optimized database performance for high-scale applications
+- Implemented comprehensive monitoring and observability
+- Contributed to architectural decision records and technical strategy
+
+Senior Software Engineer | DigitalCorp (2015 - 2018)
+- Built distributed systems handling petabyte-scale data
+- Implemented gRPC-based microservices communication
+- Led technical interviews and hiring initiatives
+
+Software Engineer | TechStart (2014 - 2015)
+- Developed backend services in Java
+
+EDUCATION:
+Master of Science in Software Engineering
+Carnegie Mellon University, 2014
+Bachelor of Science in Computer Science, 2012
+
+CERTIFICATIONS:
+AWS Certified Solutions Architect Professional
+Google Cloud Architect
+TOGAF 9 Certified
+
+EXPERTISE AREAS:
+- Enterprise architecture and design
+- Microservices and distributed systems
+- Cloud infrastructure design
+- Technical team leadership
+- Scalability and performance optimization
+- System security and compliance

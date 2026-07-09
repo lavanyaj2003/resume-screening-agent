@@ -1,0 +1,54 @@
+Senior Software Engineer - Full Stack Development
+
+Company: TechCorp Solutions
+Location: San Francisco, CA (Remote)
+Job Type: Full-time
+Experience Level: Senior (5+ years)
+
+ABOUT THE ROLE:
+We are seeking an experienced Senior Software Engineer to lead the development of our cloud-based
+platform. You will work with a talented team to design, develop, and deploy scalable applications
+that serve millions of users worldwide. This role requires strong technical expertise and the ability
+to mentor junior developers.
+
+RESPONSIBILITIES:
+- Design and implement scalable backend services using Python, Java, or Go
+- Develop responsive frontend applications using React, Vue, or Angular
+- Work with cloud platforms (AWS, Azure, GCP) to deploy and manage infrastructure
+- Collaborate with product and design teams to translate requirements into technical solutions
+- Participate in code reviews and mentor junior engineers
+- Optimize database performance and implement caching strategies
+- Implement CI/CD pipelines using Docker and Kubernetes
+- Lead architectural discussions and contribute to technical strategy
+
+REQUIRED QUALIFICATIONS:
+- 5+ years of professional software development experience
+- Strong proficiency in at least one backend language: Python, Java, or Go
+- Experience with front-end frameworks like React, Vue, or Angular
+- Solid understanding of relational and NoSQL databases (PostgreSQL, MongoDB, Redis)
+- Experience with cloud platforms (AWS, Azure, or GCP)
+- Knowledge of Docker, containerization, and microservices architecture
+- Familiarity with CI/CD tools like Jenkins, GitLab CI, or GitHub Actions
+- Strong problem-solving skills and ability to work independently
+- Excellent communication and teamwork abilities
+- Bachelor's degree in Computer Science, Engineering, or related field
+
+PREFERRED QUALIFICATIONS:
+- Experience with machine learning frameworks (TensorFlow, PyTorch)
+- Knowledge of Kubernetes orchestration
+- Experience with GraphQL
+- Contributions to open-source projects
+- AWS or GCP certifications
+- Experience with agile methodologies
+
+TECHNICAL STACK:
+Primary: Python, JavaScript/TypeScript, React, PostgreSQL, AWS, Docker, Kubernetes
+Secondary: Redis, ElasticSearch, GitLab CI, Terraform
+
+WHAT WE OFFER:
+- Competitive salary: $150,000 - $200,000 per year
+- Comprehensive benefits package
+- Flexible work arrangements
+- Professional development opportunities
+- Stock options
+- Generous time-off policy

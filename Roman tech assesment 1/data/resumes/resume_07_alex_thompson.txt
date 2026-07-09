@@ -1,0 +1,47 @@
+ALEX THOMPSON
+Portland, OR | (555) 789-0123 | alex.thompson@email.com | Portfolio: alexthompson.io
+
+PROFESSIONAL SUMMARY:
+Full Stack Developer with 8 years of software development experience. Expertise in JavaScript,
+Python, and Ruby. Successfully led multiple projects from conception to production deployment.
+Strong problem-solving skills and passion for clean code.
+
+TECHNICAL SKILLS:
+Languages: JavaScript, Python, Ruby, TypeScript, PHP
+Frontend: React, Vue.js, Angular, HTML5, CSS3, Bootstrap
+Backend: Node.js, Django, Rails, Flask
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+Cloud & DevOps: AWS, Docker, Linux, Nginx, Apache
+APIs: REST, GraphQL, SOAP
+Testing: Jest, Mocha, Pytest, RSpec
+
+PROFESSIONAL EXPERIENCE:
+Lead Developer | TechSolutions Agency (2020 - Present)
+- Led development team on 10+ projects for Fortune 500 clients
+- Architected scalable applications handling high traffic loads
+- Implemented automated testing framework improving code quality
+- Conducted code reviews and mentored junior developers
+- Managed deployments to AWS infrastructure
+
+Full Stack Engineer | WebDev Corp. (2017 - 2020)
+- Built customer-facing web applications using React and Node.js
+- Designed and implemented PostgreSQL databases
+- Optimized frontend performance achieving 95+ Lighthouse score
+- Managed AWS EC2 instances and S3 storage
+
+Web Developer | StartupPath (2015 - 2017)
+- Developed web applications using Rails and Angular
+- Implemented RESTful APIs
+- Collaborated with UI/UX designers on responsive design
+
+Junior Developer | WebBasics (2015)
+- Started career developing websites with HTML, CSS, JavaScript
+
+EDUCATION:
+Self-taught with certifications from various online platforms
+Completed Full Stack Web Development Bootcamp, 2015
+
+NOTABLE PROJECTS:
+- SaaS Platform: Built full-stack application serving 10K+ users
+- Real-time Analytics: Created React dashboard with WebSocket integration
+- Mobile Web: Developed progressive web app with offline capabilities

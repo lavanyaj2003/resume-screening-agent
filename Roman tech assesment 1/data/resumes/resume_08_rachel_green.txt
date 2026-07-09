@@ -1,0 +1,48 @@
+RACHEL GREEN
+Chicago, IL | (555) 890-1234 | rachel.green@email.com | LinkedIn: linkedin.com/in/rachelgreen
+
+PROFESSIONAL SUMMARY:
+Quality Assurance Engineer with 4 years of experience in software testing and quality assurance.
+Skilled in test automation, test planning, and bug identification. Strong attention to detail and
+commitment to ensuring software quality.
+
+TECHNICAL SKILLS:
+Testing Frameworks: Selenium, Jest, Cypress, Junit
+Languages: JavaScript, Python, Java, SQL
+Test Management: TestRail, JIRA, Azure DevOps
+Automation: Automated test suite development
+Tools: Git, Docker (basic), Postman, LoadRunner
+Methodologies: Agile, Waterfall
+
+PROFESSIONAL EXPERIENCE:
+Senior QA Engineer | Software Quality Inc. (2021 - Present)
+- Led QA team and quality strategy for multiple projects
+- Developed automated test suites using Selenium reducing manual testing by 60%
+- Managed test environments and release processes
+- Collaborated with developers on bug fixing and improvements
+
+QA Engineer | TestFirst Corp. (2019 - 2021)
+- Designed and executed comprehensive test plans
+- Performed manual and automated testing
+- Reported and tracked bugs in JIRA
+- Created test documentation and automation scripts
+
+QA Specialist | Software Lab (2019)
+- Executed test cases and identified defects
+- Assisted in automation script development
+- Supported release management
+
+EDUCATION:
+Bachelor of Science in Computer Science
+Tech University, 2019
+
+CERTIFICATIONS:
+ISTQB Certified Tester - Foundation Level
+
+EXPERTISE:
+- Test automation with Selenium and Cypress
+- Test case design and execution
+- API testing with Postman
+- Regression testing
+- Performance and load testing basics
+- Defect lifecycle management

@@ -1,0 +1,51 @@
+DAVID KUMAR
+Austin, TX | (555) 567-8901 | david.kumar@email.com | GitHub: github.com/dkumar
+
+PROFESSIONAL SUMMARY:
+DevOps Engineer with 6 years of experience in cloud infrastructure and automation.
+Specialized in AWS, Kubernetes, and infrastructure-as-code. Strong background in CI/CD pipeline
+development and system reliability.
+
+TECHNICAL SKILLS:
+Cloud Platforms: AWS (advanced), Azure, GCP
+Containerization: Docker, Kubernetes, Docker Compose
+Infrastructure as Code: Terraform, CloudFormation, Ansible
+CI/CD: Jenkins, GitLab CI, GitHub Actions, CircleCI
+Monitoring: Prometheus, Grafana, DataDog, ELK Stack
+Scripting: Bash, Python, Ruby
+Databases: PostgreSQL, MySQL (admin level)
+
+PROFESSIONAL EXPERIENCE:
+Senior DevOps Engineer | CloudOps Inc. (2021 - Present)
+- Architected Kubernetes infrastructure serving 100+ microservices
+- Implemented automated CI/CD pipelines reducing deployment time by 70%
+- Managed AWS infrastructure including networking, security, and cost optimization
+- Led disaster recovery and backup strategies
+- Mentored team of 3 junior DevOps engineers
+
+DevOps Engineer | Infrastructure Corp. (2018 - 2021)
+- Automated infrastructure provisioning using Terraform and Ansible
+- Implemented Docker containerization for legacy applications
+- Set up comprehensive monitoring and alerting systems
+- Managed PostgreSQL and MySQL database clusters
+
+Systems Administrator | TechSupport Ltd. (2017 - 2018)
+- Managed Linux servers and networking infrastructure
+- Supported application deployment and troubleshooting
+
+EDUCATION:
+Bachelor of Science in Information Systems
+State University, 2017
+
+CERTIFICATIONS:
+AWS Certified Solutions Architect Professional
+Kubernetes Application Developer (CKAD)
+HashiCorp Certified: Terraform Associate
+
+EXPERTISE:
+- AWS infrastructure design and management
+- Kubernetes orchestration at scale
+- CI/CD automation and pipeline optimization
+- Infrastructure monitoring and alerting
+- Cost optimization for cloud resources
+- Disaster recovery and business continuity
